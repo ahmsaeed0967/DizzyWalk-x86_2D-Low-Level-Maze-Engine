@@ -17,7 +17,7 @@
 
 ## 📖 Project Overview
 
-**Dizzy Walk** is a semester project for the *Computer Organization and Assembly Language (COAL)* course, Spring 2026.
+**Dizzy Walk** is a semester project for the *Computer Organization and Assembly Language (COAL)* course.
 
 The game simulates **Professor Dizzy** — a hilariously disoriented character who wanders through a colorful 2D maze filled with obstacles, coins, stumble zones, and a destination he desperately needs to reach. Players can either watch the professor walk randomly (Auto-Pilot mode) or take full keyboard control and navigate the maze themselves.
 
@@ -34,11 +34,11 @@ Everything — the game logic, the user interface, the file I/O, the sound effec
 | ![Welcome Screen](Game%20Screens%20Images/screen1.png) | **Welcome Screen** — Intro banner with team credits |
 | ![Retro Splash](Game%20Screens%20Images/Screen2.png) | **Retro Arcade Splash** — Animated start screen |
 | ![Game Mode Menu](Game%20Screens%20Images/screen3.png) | **Mission Select Menu** — Choose your play mode |
-| ![Maze Gameplay](Game%20Screens%20Images/screen4.png) | **Live Maze** — Professor navigating the 50×30 grid |
-| ![Status Panel](Game%20Screens%20Images/screen5.png) | **Status Panel** — Real-time HUD with stats and 3D view |
-| ![Pit Danger](Game%20Screens%20Images/screen6.png) | **Danger Warning** — Pit proximity alert |
-| ![Win Screen](Game%20Screens%20Images/screen7.png) | **Victory Screen** — Professor reached home! |
-| ![Game Over](Game%20Screens%20Images/screen8.png) | **Game Over Screen** — The professor fell into a pit |
+| ![Maze Gameplay](Game%20Screens%20Images/screen4.png) | **Live Maze** — KeyBoard Mode with Limited Run |
+| ![Status Panel](Game%20Screens%20Images/screen5.png) | **Game Over** — Quit by Player |
+| ![Pit Danger](Game%20Screens%20Images/screen6.png) | **Warning** — Professor fell into a pit |
+| ![Win Screen](Game%20Screens%20Images/screen7.png) | **Live Maze** — Random Mode with Unlimited Run |
+| ![Game Over](Game%20Screens%20Images/screen8.png) | **Game Over Screen** — Step Limit has reached! |
 
 ---
 
